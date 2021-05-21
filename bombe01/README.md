@@ -28,10 +28,10 @@ Cette library est disponible via l'IDE arduino dans le library manager. menu Ske
 Cette library est aussi disponible sur [github](https://github.com/avishorp/TM1637) 
 
 ## Exemples
-![](./images/bombe01_exemple01.png)  
+![](../images/bombe01_exemple01.png)  
 Prototype avec un Arduino Nano (le connecteur JST blanc n'est pas utilisé)
   
-![](./images/bombe01_exemple02.png)  
+![](../images/bombe01_exemple02.png)  
 Arduino Uno et un [shield tick tock de chez Seedstudio](https://www.seeedstudio.com/Starter-Shield-EN-Tick-Tock-shield-v2-p-2768.html)  
 
 
@@ -48,7 +48,7 @@ D11 |  BOUTON_ACTIVATION_PIN | bouton d'activation
  
 
 ## Schema 
-![](./images/bombe01_schema.png)
+![](../images/bombe01_schema.png)
 
 
 ## Alimentation
