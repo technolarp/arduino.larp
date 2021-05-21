@@ -44,10 +44,10 @@ Cette library est aussi disponible sur [playground](https://playground.arduino.c
 
 
 ## Exemples
-![](./images/serrureClavier01_exemple01.png)  
+![](../images/serrureClavier01_exemple01.png)  
 Une serrure réalisée avec une boîte de dérivation  
 
-![](./images/serrureClavier01_exemple02.png)  
+![](../images/serrureClavier01_exemple02.png)  
 Une serrure réalisée pour un GN ambiance post-apo. Le buzzer est à l'intérieur
   
 
@@ -70,7 +70,7 @@ D12    |   BUZZER_PIN       |    buzzer piezo 5v
 Il faut bien respecter l'ordre de branchement des pin du clavier !
  
 ## Schema 
-![](./images/serrureClavier01_schema.png)
+![](../images/serrureClavier01_schema.png)
 
 
 ## Alimentation

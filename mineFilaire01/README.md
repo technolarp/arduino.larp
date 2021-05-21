@@ -41,7 +41,7 @@ J'ai utilisé une alarme 6-12V pour moto : https://www.aliexpress.com/item/32221
 
 
 ## Fil piège
-![](./images/mineFilaire01_fil_piege.png)  
+![](../images/mineFilaire01_fil_piege.png)  
 Deux exemples pour le fil piège  
 1. Deux broches de type "Dupont" mâle et un fil avec 2 terminaux de type "Dupont" femelle
 1. Du fil électrique rigide (0.22mm²) et un jumper de carte mère
@@ -55,7 +55,7 @@ D5 | FIL_PIEGE_PIN | fil piège
 D7 | ALARME_PIN | mosfet et alarme
 
 ## Schema 
-![](./images/mineFilaire01_schema.png)
+![](../images/mineFilaire01_schema.png)
 
 Les deux résistances et la diode sont là pour protéger le mosfet et la carte Arduino
 

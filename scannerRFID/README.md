@@ -32,4 +32,4 @@ Vous aurez besoin d'installer la bibliothèque [MFRC522.h](https://github.com/mi
 <img src="./images/scannerRFID_03.png" width="300">  
 
 ## Schema 
-![](./images/scannerRFID_schema.png)
+![](../images/scannerRFID_schema.png)

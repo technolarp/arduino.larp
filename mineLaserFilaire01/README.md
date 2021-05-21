@@ -74,13 +74,13 @@ byte cheatCode[CHEATCODE_LENGTH] = {1,0,0,1};
 ## Exemples
 Mine laser réalisée avec une carte Arduino Nano et un pcb de prototypage   
   
-![](./images/mineLaserFilaire01_exemple01.png)  
+![](../images/mineLaserFilaire01_exemple01.png)  
 La mine en mode filaire  
 
-![](./images/mineLaserFilaire01_exemple02.png)  
+![](../images/mineLaserFilaire01_exemple02.png)  
 La mine en mode laser    
 
-![](./images/mineLaserFilaire01_exemple03.png)   
+![](../images/mineLaserFilaire01_exemple03.png)   
 le laser réalisé à partir d'un bloc 3 piles AAA et un un support imprimé en PLA
 
 J'ai utilisé une alarme 6-12V pour moto : https://www.aliexpress.com/item/32221510247.html  
@@ -99,7 +99,7 @@ D6 | REARM_PIN | réarmement automatique de la mine
 D7 | ALARME_PIN | mosfet et alarme
 
 ## Schema 
-![](./images/mineLaserFilaire01_schema.png)
+![](../images/mineLaserFilaire01_schema.png)
 
 Les deux résistances et la diode sont là pour protéger le mosfet et la carte Arduino
 

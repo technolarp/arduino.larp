@@ -135,13 +135,13 @@ Cette library esy disponible via l'IDE arduino dans le library manager. menu Ske
 Cette library est aussi disponible sur [github](https://github.com/avishorp/TM1637)  
 
 ## Exemples
-![](./images/bombe02_exemple01.png)  
+![](../images/bombe02_exemple01.png)  
 Prototype avec un Arduino Nano et 2 terminaux à vis 4 bornes
   
-![](./images/bombe02_exemple02.png)  
+![](../images/bombe02_exemple02.png)  
 Une bombe compléte à base d'un Arduino Uno et d'un [shield tick tock de chez Seedstudio](https://www.seeedstudio.com/Starter-Shield-EN-Tick-Tock-shield-v2-p-2768.html), avec des connecteurs dupont femelle et du fil électrique rigide  
 
-![](./images/bombe02_exemple03.png)  
+![](../images/bombe02_exemple03.png)  
 Un autre exemple plus abouti pour un escape game.  
 Les 4 fils de désamorçage sont sur la gauche, les connecteur sont des fiches bananes. Les fils sur le haut de la bombe sont décoratifs.   
 Réalisation basée sur une carte arduino uno et un  [shield tick tock de chez Seedstudio](https://www.seeedstudio.com/Starter-Shield-EN-Tick-Tock-shield-v2-p-2768.html)   
@@ -167,7 +167,7 @@ D13 |   FILS_PIN[3]            |   fil de deminage n°4
  
 
 ## Schema 
-![](./images/bombe02_schema.png)
+![](../images/bombe02_schema.png)
 
 TERM_FILS et TERM_GND sont des terminaux à vis 4 bornes. Il faut simplement utiliser un morceau de fil électrique entre les bornes de chaque terminal (voir [exemple 1](https://github.com/technolarp/bombe02/blob/master/images/bombe02_exemple01.png)).  
 Il est possible d'utiliser d'autre type de connecteur comme des interripteurs on/off, ou encore des fiches banane ou des connecteurs dupont (voir les exemples)  

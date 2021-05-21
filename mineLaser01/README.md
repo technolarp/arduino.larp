@@ -37,14 +37,14 @@ Pour utiliser une led neopixel de chez Adafruit, décommenter la ligne
 
 
 ## Exemples
-![](./images/mineLaser01_exemple01.png)  
+![](../images/mineLaser01_exemple01.png)  
 Mine laser réalisée avec une carte Arduino Nano et un pcb de prototypage
 J'ai utilisé une alarme 6-12V pour moto : https://www.aliexpress.com/item/32221510247.html  
   
-![](./images/mineLaser01_exemple02.png)  
+![](../images/mineLaser01_exemple02.png)  
 Le laser est avec un bloc de 3 piles AAA et un interrupteur, le support est imprimé en PLA
   
-![](./images/mineLaser01_exemple03.png)  
+![](../images/mineLaser01_exemple03.png)  
 Le support du photoresistor est aussi imprimé en PLA. L'écran de diffusion est en scotch de peintre blanc
 
 
@@ -58,7 +58,7 @@ D6 | REARM_PIN | réarmement automatique de la mine
 D7 | ALARME_PIN | mosfet et alarme
 
 ## Schema 
-![](./images/mineLaser01_schema.png)
+![](../images/mineLaser01_schema.png)
 
 Les deux résistances et la diode sont là pour protéger le mosfet et la carte Arduino
 
