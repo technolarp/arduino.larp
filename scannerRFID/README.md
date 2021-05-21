@@ -27,9 +27,9 @@ Vous aurez besoin d'installer la bibliothèque [MFRC522.h](https://github.com/mi
 
 ## Configuration
 232key est simple à configurer
-<img src="./images/scannerRFID_01.png" width="300">  
-<img src="./images/scannerRFID_02.png" width="300">  
-<img src="./images/scannerRFID_03.png" width="300">  
+<img src="../images/scannerRFID_01.png" width="300">  
+<img src="../images/scannerRFID_02.png" width="300">  
+<img src="../images/scannerRFID_03.png" width="300">  
 
 ## Schema 
 ![](../images/scannerRFID_schema.png)

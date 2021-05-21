@@ -33,7 +33,7 @@ Pour utiliser une led neopixel de chez Adafruit, décommenter la ligne
 
 
 ## Exemples
-<img src="./images/mineFilaire01_mine.png" width="600">
+<img src="../images/mineFilaire01_mine.png" width="600">
 Mine filaire réalisée avec une carte Arduino Uno et un proto shield  
 
 J'ai utilisé une alarme 6-12V pour moto : https://www.aliexpress.com/item/32221510247.html  
